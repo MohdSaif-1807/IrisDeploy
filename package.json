@@ -23,7 +23,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"pip install scikit-learn && npm install"
+    "build":"pip install -r requirements.txt && npm install"
   },
   "keywords": [],
   "author": "",
